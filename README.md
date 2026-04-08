@@ -1,4 +1,4 @@
-# Face Recognition System 👤
+# face_recognition.py👤
 
 ## 📌 Project Description
 
